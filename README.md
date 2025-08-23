@@ -7,7 +7,7 @@ Smart, secure supplement + medication guidance.
 ## Overview
 PillPal-VitaPro is a proof-of-concept app that helps users:
 - Track supplements and prescriptions they’re taking.
-- See recommended synergies (e.g., Vitamin D + Calcium).
+- See recommended synergies (i.e., Vitamin D + Calcium).
 - Flag dangerous interactions between supplements and medications.
 - Pull in trusted medical references via APIs.
 
@@ -18,15 +18,15 @@ PillPal-VitaPro is a proof-of-concept app that helps users:
 ## Features
 - **Smart Input**
   - Select or enter medications and supplements.
-  - App checks known interactions and synergies.
+  - My app checks known interactions and synergies.
 
 - **Supplement Recommendations**
-  - Suggests nutrients that work best together (e.g., Magnesium + Vitamin B6).
-  - Links to peer-reviewed references for validation.
+  - Suggests nutrients that work best together (i.e., Magnesium + Vitamin B6).
+  - Links to peer-reviewed references for validation and ease of each user to view the info for review
 
 - **Interaction Checker**
-  - Highlights conflicts with prescriptions (e.g., St. John’s Wort + SSRIs).
-  - Uses public health/drug interaction APIs.
+  - Highlights conflicts with prescriptions (i.e., St. John’s Wort + SSRIs).
+  - Uses public health + drug interaction APIs.
 
 - **Reference Library**
   - Click-through to NIH, PubMed, or FDA resources for deeper context.
@@ -74,10 +74,4 @@ PillPal-VitaPro helps make those interactions clear — while also showcasing se
 ---
 
 ## Inspiration
-This project grew out of the idea of treating software security like personal health: both require prevention, awareness, and checks before things break.
-
----
-
-## License
-PillPal-VitaPro is licensed under the [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html).  
-Any modifications or services built using this code must also remain open source.
+This project grew out of the idea of ensuring I could check supplements and interactions quickly, securely and work with my need for ease & automation.
