@@ -1,8 +1,14 @@
 ![WIP](https://img.shields.io/badge/status-Work_in_Progress-yellow?style=for-the-badge&logoColor=white)
 
-# PillPal-VitaPro
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a08b5d4d-cc64-46d0-b315-562bad3db087" width="550">
+</p>
 
-Smart, secure supplement + medication guidance.
+
+<h1 align="center">PillPal-VitaPro</h1>
+
+<p align="center"><em>Smart, secure supplement + medication guidance.</em></p>
+
 
 ---
 
@@ -39,6 +45,7 @@ PillPal-VitaPro is a proof-of-concept app that helps users:
   - Scoped secrets for medical API keys.
   - Future add-on: encrypted local storage of user “pillbox.”
 
+
 ---
 
 ## Tech Stack
@@ -47,6 +54,14 @@ PillPal-VitaPro is a proof-of-concept app that helps users:
 - **Frontend:** Basic React or HTML/Bootstrap UI  
 - **Security:** OWASP best practices, Bandit + Semgrep scanning  
 - **Other Tools:** Docker, GitHub Actions CI/CD  
+
+---
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11007842-c487-41c5-a6c7-ae5daf319d93" width="250">
+</p>
 
 ---
 
@@ -77,3 +92,8 @@ PillPal-VitaPro helps make those interactions clear — while also showcasing se
 
 ## Inspiration
 This project grew out of the idea of ensuring I could check supplements and interactions quickly, securely and work with my need for ease & automation.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e45287e-a72c-4341-b641-a8eca7328055" width="75">
+</p>
