@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PillPal-VitaPro</title>
+</head>
+<body>
+  <h1>PillPal-VitaPro</h1>
+  <h2>Check Supplement Interactions</h2>
+  <div>
+    <label>Prescriptions (comma-separated):</label><br/>
+    <input id="prescriptions" type="text" placeholder="e.g. SSRI" />
+  </div>
+  <div>
+    <label>Supplements (comma-separated):</label><br/>
+    <input id="supplements" type="text" placeholder="e.g. St. John's Wort" />
+  </div>
+  <button onclick="checkInteractions()">Check Interactions</button>
+  <pre id="results"></pre>
+
+  <script src="script.js"></script>
+</body>
+</html>
